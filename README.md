@@ -2,6 +2,10 @@
 # NAMA : SAWUNG GALIH TRIATMOJO (NIM : 2309116058)
 # NAMA : MUHAMMAD SATRIA APRYANDA (NIM : 2309116092)
 # NAMA : HISKYA HARSYAL KILA (NIM : 2309116089)
+flowchart program
+
+![warnet saudara drawio](https://github.com/SawungGalihT/PA/assets/144757389/afc59c7e-ccfe-4e7b-8ec0-178455983f56)
+
 •	Saat program dijalankan (run) akan muncul menu.
 
 ![Screenshot 2023-11-03 081140](https://github.com/SawungGalihT/POST_TEST2/assets/144757389/25e032b6-c662-4cfb-8875-93f1dc07b1e1)
